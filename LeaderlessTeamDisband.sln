@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaderlessTeamDisband", "LeaderlessTeamDisband.csproj", "{760BAD2B-FE92-45BF-8D55-71C59046A039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{760BAD2B-FE92-45BF-8D55-71C59046A039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760BAD2B-FE92-45BF-8D55-71C59046A039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760BAD2B-FE92-45BF-8D55-71C59046A039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760BAD2B-FE92-45BF-8D55-71C59046A039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BCC7ABB-E776-4FB6-9E37-DF5A218DCF0A}
+	EndGlobalSection
+EndGlobal
